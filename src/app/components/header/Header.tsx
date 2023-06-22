@@ -1,11 +1,11 @@
 import Image from 'next/image'
-import './style.scss'
+import './styles.scss'
 
 export const Header = () => {
   return (
     <div className="header">
       <div>
-        <h1>Hi, i´m Matheus!</h1>
+        <h1>Hi, i'm Matheus!</h1>
         <h2>Developer Front-end</h2>
       </div>
         <Image

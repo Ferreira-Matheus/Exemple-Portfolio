@@ -1,0 +1,22 @@
+.information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+  grid-area: info;
+
+  .languages-info {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 24px;
+  }
+
+  span {
+    color: var(--text-secundary);
+    font-weight: normal;
+  }
+}

@@ -1,5 +1,5 @@
 import { SectionTitle } from '../sectionTitles/SectionTitle'
-import './style.scss'
+import './styles.scss'
 
 export const Experience = () => {
   return (
