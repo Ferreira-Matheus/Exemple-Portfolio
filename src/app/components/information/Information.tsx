@@ -11,8 +11,9 @@ export const Information = () => {
     </div>
     <SectionTitle text='Education' />
     <div className="educational-info">
-      <span>Aaqui alguma coisa tbm</span>
-      <span>Texto grande só pra encher aqui e depois eu escrevo</span>
+      <span>Escrever sua escolaridade</span>
+      <br/>
+      <span>Escrever caso tenho algum curso adicional</span>
     </div>
   </div>
   )
