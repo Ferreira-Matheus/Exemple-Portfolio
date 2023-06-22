@@ -1,14 +1,14 @@
 import './globals.scss'
 import { Poppins } from 'next/font/google'
 
-const inter = Poppins({ 
-  subsets: ['latin'], 
-  weight: ['400', '500', '600'] 
+const inter = Poppins({
+   subsets: ['latin-ext'], 
+   weight: ['400', '500', '600'] 
 })
 
 export const metadata = {
   title: 'Matheus Ferreira',
-  description: 'Portifolio Simples.',
+  description: 'Portfolio Simples.',
 }
 
 export default function RootLayout({
